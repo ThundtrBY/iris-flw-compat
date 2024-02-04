@@ -144,6 +144,10 @@ repositories {
     maven {
         url "https://maven.tterrag.com/"
     }
+    maven {
+        url "https://maven.blamejared.com"
+    }
+
 }
 
 dependencies {
